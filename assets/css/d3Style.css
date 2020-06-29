@@ -52,6 +52,9 @@
   border-radius: 4px;
 }
 
+
+
+
 /* Mobile Rules */
 @media screen and (max-width: 530px) {
   .stateText {
